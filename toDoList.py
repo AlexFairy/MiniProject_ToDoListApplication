@@ -47,4 +47,4 @@ while True:
   except Exception:
     print("Empty")
   finally:
-    print("Thanks for using the program!")
+    print("Thank You for using the application!")
